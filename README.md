@@ -1,1 +1,1 @@
-# JS-Code-Quiz
+# Daily Paperless Planner
